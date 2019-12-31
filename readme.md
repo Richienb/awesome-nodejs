@@ -319,6 +319,7 @@
 - [spi-device](https://github.com/fivdi/spi-device) - SPI serial bus access.
 - [pigpio](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 - [gps](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
+- [xoi](https://github.com/Richienb/xoi) - Control and detect the mouse, keyboard and screen.
 
 ### Templating
 
